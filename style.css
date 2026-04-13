@@ -1,7 +1,21 @@
-img {
-    width: 300px;
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #f5f7fb;
+    color: #222;
+    font-family: "Pretendard", "Noto Sans KR", "Apple SD Gothic Neo";
+    line-height: 1.6;
+}
+
+
+.프로필사진 {
+    border-radius: 15px;
     display: block;
-    margin-bottom: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 
