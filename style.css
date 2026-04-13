@@ -30,7 +30,7 @@ body {
 
 
 .요약카드 {
-    width: 400px;
+    width: 500px;
     padding: 20px;
     margin-top: 20px;
     margin-left: 50px;
@@ -45,6 +45,7 @@ body {
     width: 600px;
     padding: 20px;
     margin-top: 20px;
+    margin-left: 50px;
     border: 2px solid #333;
     border-radius: 12px;
     background-color: #ffffff;
