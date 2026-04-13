@@ -7,15 +7,24 @@ body {
     padding: 0;
     background: #f5f7fb;
     color: #222;
-    font-family: "Pretendard", "Noto Sans KR", "Apple SD Gothic Neo";
     line-height: 1.6;
 }
 
 
-.프로필사진 {
-    border-radius: 15px;
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+.profile {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 24px;
+    border: none;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
     display: block;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 
