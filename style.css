@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
     padding: 25px;
     background-color: white;
-    border: 2px solid #333;
+    border: 2px solid #222;
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -46,13 +46,13 @@ body {
     font-size: 18px;
 }
 
-/* 두 번째 상세 카드 */
+
 .상세요약 {
     width: 700px;
     margin: 30px auto 0;
     padding: 25px;
     background-color: white;
-    border: 2px solid #333;
+    border: 2px solid #222;
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
